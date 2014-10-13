@@ -1,4 +1,4 @@
-//bedo
+//bedo 222
 	
 //setup before functions
 var typingTimer;                //timer identifier
