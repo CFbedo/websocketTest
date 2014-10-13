@@ -1,4 +1,4 @@
-
+//bedo
 	
 //setup before functions
 var typingTimer;                //timer identifier
