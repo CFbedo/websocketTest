@@ -1,0 +1,49 @@
+body{
+	
+}
+
+#msgBox{
+	
+	position:relative;
+	height:300px;
+	width:410px;
+	padding:0 10 10 10 ;
+	margin-top:10px;
+}
+
+#msgFeild{
+	background:#a3a3a3;
+	bottom:0px;
+	left:0px;
+	height:auto;
+	border-radius:0 0 5 5 ;
+	padding: 5 5 0 5;
+}
+
+#sendbtn{
+	width:400px; 
+}
+#myDiv{ 
+	background:#f2f2f2;
+	height:200px;
+	overflow-y:auto; 
+	padding-left:10px;
+	position:relative;
+}
+#boxHeader{
+	height:20px;
+	background:#9e9e9e;
+	border-radius:5 5 0 0 ;
+	padding:3px;
+}
+#time{
+	
+	float:right;
+	 
+}
+#isTyping{  
+	position:relative;
+	width:auto;
+	height:20px; 
+	
+}
